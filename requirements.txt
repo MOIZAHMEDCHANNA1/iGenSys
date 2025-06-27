@@ -1,0 +1,4 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+cohere==4.40
+gunicorn==21.2.0

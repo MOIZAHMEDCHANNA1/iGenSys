@@ -1,0 +1,42 @@
+{
+    "tenants": {
+        "acme-corp": {
+            "active": true,
+            "owner_email": "owner@acme.com",
+            "business_name": "Acme Corporation",
+            "business_type": "B2B Software Solutions",
+            "key_services": "CRM systems, Marketing automation",
+            "target_audience": "Mid-size businesses, Enterprises",
+            "business_info": "We provide enterprise software solutions that help businesses streamline operations and increase productivity. Our flagship product is AcmeCRM - an all-in-one customer relationship management platform.",
+            "faqs": [
+                {
+                    "q": "What industries do you serve?",
+                    "a": "We serve retail, manufacturing, and professional services industries"
+                },
+                {
+                    "q": "What's your pricing model?",
+                    "a": "We offer tiered pricing based on number of users and features needed"
+                }
+            ]
+        },
+        "draftab": {
+            "active": true,
+            "owner_email": "owner@acme.com",
+            "business_name": "Dr Aftab Ahmed Channa",
+            "business_type": "Urological surgeon",
+            "key_services": "almost all urological surgical procedures",
+            "target_audience": "patients with urological diseases",
+            "business_info": "dr Aftab Ahmed Channa is a urological surgeon, Professor of department of Urology in Islam Medical College, with 15+ years of experience",
+            "faqs": [
+                {
+                    "q": "What is your experience",
+                    "a": "quality health care with years of experience"
+                },
+                {
+                    "q": "What's your fees",
+                    "a": " consultation fees is 2000 pkr per visit"
+                }
+            ]
+        }
+    }
+}
